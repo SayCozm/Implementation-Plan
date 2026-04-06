@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <g fill="#000000">
+    <polygon points="50,55 65,20 75,20 75,55"/>
+    <polygon points="78,55 88,30 98,30 98,55"/>
+    <polygon points="101,55 108,40 118,40 118,55"/>
+  </g>
+  <text x="100" y="75" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="16" fill="#000" letter-spacing="5">adidas</text>
+</svg>
